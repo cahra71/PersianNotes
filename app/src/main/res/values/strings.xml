@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PersianNotes</string>
+    <string name="about_title">دربارهٔ ما</string>
+    <string name="about_text">PersianNotes - سبک و سریع؛ پشتیبانی از نوشتار با قلم و تشخیص دست‌خط فارسی/انگلیسی.</string>
+    <string name="new_notebook">دفترچهٔ جدید</string>
+    <string name="add_page">افزودن صفحه</string>
+</resources>
